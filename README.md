@@ -23,6 +23,11 @@ This project involved designing and building an interactive **Tableau dashboard*
 - **Design Principles:** Perceptual Effectiveness (Color Theory), Accessibility, Interaction Design
 
 ## 📁 Project Structure
+world-happiness-dashboard/
+├── data/ # Source and processed data (see note)
+├── dashboard/ # Tableau packaged workbook (.twbx) and screenshots
+├── reports/ # Final project report and documentation
+└── README.md
 ## 🔧 Key Features of the Dashboard
 
 ### 1. Interactive Choropleth Map
