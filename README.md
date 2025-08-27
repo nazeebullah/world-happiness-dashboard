@@ -9,7 +9,14 @@ An interactive Tableau dashboard analyzing global happiness trends (2021-2024) f
 This project involved designing and building an interactive **Tableau dashboard** to analyze global happiness and well-being trends from 2021 to 2024. The dashboard was crafted specifically for a **UNDP Policy Analyst** persona, with the goal of identifying spatial and economic inequalities to inform data-driven policy decisions aligned with the UN's Sustainable Development Goals (SDGs).
 
 **Primary Goal:** To transform the World Happiness Report dataset into an actionable tool for equitable policy-making.
+## 🚀 Live Interactive Dashboard
 
+The core of this project is a fully interactive Tableau dashboard. Click the link below to explore the data yourself:
+- Filter by year, region, and development status.
+- Hover over countries to see detailed metrics.
+- Observe how the charts are linked and filter each other.
+
+[**🔗 Explore the Interactive Dashboard on Tableau Public**](https://public.tableau.com/views/Book2_17464650839110/WorldHappiness20212024?:language=en-US&:sid=&:redirect=auth&publish=yes&showOnboarding=true&:display_count=n&:origin=viz_share_link)
 ## 📊 Dataset
 **Source:** [World Happiness Report](https://worldhappiness.report/)
 - **Time Frame:** 2021 - 2024
