@@ -1,5 +1,8 @@
 # world-happiness-dashboard
-An interactive Tableau dashboard analyzing global happiness trends (2021-2024) for policy analysis, built for a UNDP user persona.
+An interactive Tableau dashboard analyzing global happiness trends (2021-2024) for policy analysis, built for a UNDP user persona. 
+# 🌍 World Happiness Analysis Dashboard
+
+[![View on Tableau Public](https://img.shields.io/badge/View%20Interactive%20Dashboard-Tableau%20Public-orange)](https://public.tableau.com/views/Book2_17464650839110/WorldHappiness20212024?:language=en-US&:sid=&:redirect=auth&publish=yes&showOnboarding=true&:display_count=n&:origin=viz_share_link)
 # 🌍 World Happiness Analysis Dashboard
 
 ## 📖 Project Overview
